@@ -1,0 +1,64 @@
+// 小程序不支持字体大小改动,默认小程序为普通字体（已经加了page兼容）
+// 普通字体
+#normal,page{
+	.size-20 {
+		font-size: 20rpx;
+	}
+	.size-22 {
+		font-size: 22rpx;
+	}
+	.size-24 {
+		font-size: 24rpx;
+	}
+	.size-26 {
+		font-size: 26rpx;
+	}
+	.size-28 {
+		font-size: 28rpx;
+	}
+	.size-30 {
+		font-size: 30rpx;
+	}
+	.size-32 {
+		font-size: 32rpx;
+	}
+	.size-34 {
+		font-size: 34rpx;
+	}
+	.size-36 {
+		font-size: 36rpx;
+	}
+	.size-38 {
+		font-size: 38rpx;
+	}
+	.size-40 {
+		font-size: 40rpx;
+	}
+	.size-55 {
+		font-size: 55rpx;
+	}
+	.primary_cor {
+		color: $u-primary;
+	}
+	.success_cor {
+		color: $u-success;
+	}
+	.warning_cor {
+		color: $u-warning;
+	}
+	.error_cor {
+		color: $u-error;
+	}
+	.clo_0 {
+		color: #000000;
+	}
+	.clo_3 {
+		color: #333333;
+	}
+	.clo_6 {
+		color: #666666;
+	}
+	.clo_9 {
+		color: #999999;
+	}
+}
